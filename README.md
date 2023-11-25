@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **HTML,css,css-tailwind**
 
-- 👨‍💻 All of my projects are available at [file:///C:/Users/Dell/OneDrive/Desktop/portfolio%202/index.html)
+- 👨‍💻 All of my projects are available at https://github.com/Mayinicharantej/portfilio
 
 - 💬 Ask me about **HTML and css**
 

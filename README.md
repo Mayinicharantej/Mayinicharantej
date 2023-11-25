@@ -1,7 +1,7 @@
 [![MasterHead](https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg)]
 <h1 align="center">Hi 👋, I'm Mayini charan tej</h1>
 <h3 align="center">A passionate frontend developer from Hyderabad-(Telangana)</h3>
-(img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif")
+(img align="right" alt="Coding" width="700" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayinicharantej&label=Profile%20views&color=0e75b6&style=flat" alt="mayinicharantej" /> </p>
 
 <p align="left"> <a href="https://twitter.com/charan_mayini" target="blank"><img src="https://img.shields.io/twitter/follow/charan_mayini?logo=twitter&style=for-the-badge" alt="charan_mayini" /></a> </p>
